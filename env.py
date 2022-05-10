@@ -6,7 +6,7 @@ class buildEnvironment():
     def __init__(self, MapDimensions):
         pygame.init()
         self.pointcloud = []
-        self.externalMap = pygame.image.load('map1.png')
+        self.externalMap = pygame.image.load('maps/map1.png')
         self.mapH, self.mapW = MapDimensions
         self.MapWindowName = 'RRT Path Planning'
         pygame.display.set_caption(self.MapWindowName)
