@@ -13,7 +13,7 @@ You can use a code editor of your choice, but I personally find **PyCharm** very
 4. Run pycharm.sh from the bin subdirectory:
     - `sh pycharm.sh`
 
-### Clone the Script file:
+### Clone the Repository files:
 1. Go to your workspace (any folder where you which to maintain this code)
 2. Open terminal at that location (Right-Click -> Open in Terminal)
 3. Clone the repostory by pasting the following into the opened terminal:
