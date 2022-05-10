@@ -23,7 +23,7 @@ You can use a code editor of your choice, but I personally find **PyCharm** very
 1. Open terminal (using `Ctrl+Alt+T`)
 2. start PyCharm:
     - `~<path_to_PyCharm_folder>/bin/pycharm.sh`
-3. Open `main.py` script and run to obtain the following output:
+3. Open `main.py` script and run to obtain the following output (default **map1.png**):
 <p align="center">
   <img width="800" height="500" src="https://github.com/PulkitRustagi/Lidar-based-Mapping/blob/main/Lidar_sim_with_mouse2.gif">
 </p>
