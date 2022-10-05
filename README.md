@@ -11,7 +11,7 @@ You can use a code editor of your choice, but I personally find **PyCharm** very
 3. Switch to the bin subdirectory:
     - `cd /opt/pycharm-*/bin`
 4. Run pycharm.sh from the bin subdirectory:
-    - `sh pycharm.sh`
+    - `./pycharm.sh`
 
 ### Clone the Repository files:
 1. Go to your workspace (any folder where you which to maintain this code)
